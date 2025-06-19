@@ -1,4 +1,12 @@
-![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/full-supermon.jpg))
+![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/full-supermon.jpg)
+
+![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/text-colors.jpg)
+
+![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/background-color1.jpg)
+
+![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/background-color2.jpg)
+
+
 
 # Supermon 7.4 w/Supermon2 MOD css file & Python Script
 
