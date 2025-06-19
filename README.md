@@ -11,6 +11,11 @@
 ![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/background-color2.jpg)
 
 
+# Prerequisite Install
+Before you make these changes you need to install the Supermon2 MOD from Jory - W5GLE's GitHub page
+```
+https://github.com/hardenedpenguin/asl3_scripts
+```
 
 # Supermon 7.4 w/Supermon2 MOD css file & Python Script
 
