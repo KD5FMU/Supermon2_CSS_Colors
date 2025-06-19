@@ -2,7 +2,11 @@
 
 These are my preferred supermon.css file and accompanying ast_node_status_update.py Pythin Script.
 
-Goto the /var/www/html/supermon/ folder and rename the existing supermon.css file so that we can download the new one. We can do this with this command.
+Goto the /var/www/html/supermon/ folder 
+```
+cd /var/www/html/supermon
+```
+Then rename the existing supermon.css file so that we can download the new one. We can do this with this command.
 ```
 sudo mv supermon.css supermon.css.bak
 ```
