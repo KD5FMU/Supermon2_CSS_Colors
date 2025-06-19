@@ -1,4 +1,4 @@
-# The finished Product
+# The Finished Product
 ![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/full-supermon.jpg)
 
 # Have the ability to change these custom colors
