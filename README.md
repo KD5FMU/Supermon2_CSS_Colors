@@ -1,4 +1,4 @@
-# The Finished Product
+# The Finished Product - *note this is for ASL3 only
 ![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/full-supermon.jpg)
 
 # Have the ability to change these custom colors
