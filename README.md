@@ -12,7 +12,7 @@
 
 
 # Prerequisite Install
-Before you make these changes you need to install the Supermon2 MOD from Jory - W5GLE's GitHub page
+Before you make these changes you need to install the Supermon2 MOD from Jory - W5GLE's GitHub page. You can also install the HamClock from this page as well but it is not required.
 ```
 https://github.com/hardenedpenguin/asl3_scripts
 ```
