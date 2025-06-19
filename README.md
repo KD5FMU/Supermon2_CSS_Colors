@@ -1,9 +1,13 @@
+# The finished Product
 ![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/full-supermon.jpg)
 
+# Have the ability to change these custom colors
 ![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/text-colors.jpg)
 
+# Awesome Color effects when you are transmitting into the NODE
 ![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/background-color1.jpg)
 
+# Cool Colors when the NODE is transmitting and receiving 
 ![HRC Logo](https://github.com/KD5FMU/KD5FMU/blob/main/background-color2.jpg)
 
 
